@@ -4,7 +4,7 @@ Cloudflare Workers version of https://github.com/catnose99/twemoji-image-functio
 # Demo
 https://twemoji.naecqde.workers.dev/
 
-# How to use
+# Usage
 ### svg
 https://twemoji.naecqde.workers.dev/twemoji/💛.svg
 ### png
