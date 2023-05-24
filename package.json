@@ -1,0 +1,20 @@
+{
+    "name": "twemoji-image-functions",
+    "version": "0.0.0",
+    "devDependencies": {
+        "@cloudflare/workers-types": "^4.20230518.0",
+        "@types/twemoji-parser": "^13.1.1",
+        "typescript": "^5.0.4",
+        "wrangler": "3.0.1"
+    },
+    "private": true,
+    "scripts": {
+        "dev": "wrangler dev",
+        "start": "wrangler dev --remote",
+        "deploy": "wrangler deploy"
+    },
+    "dependencies": {
+        "hono": "^3.2.2",
+        "twemoji-parser": "^14.0.0"
+    }
+}
