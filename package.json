@@ -14,7 +14,7 @@
         "deploy": "wrangler deploy"
     },
     "dependencies": {
-        "hono": "^3.2.2",
+        "hono": "^4.13.18",
         "twemoji-parser": "^14.0.0"
     }
 }
